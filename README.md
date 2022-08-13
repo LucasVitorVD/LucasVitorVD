@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Me chamo Lucas e estou me aventurando nesse mundo de códigos!
+- 🔭 Me chamo Lucas e entrei nesse mundo de códigos com 15 anos, após ter desistido 3 vezes, finalmente com 17 anos me encontrei no desenvolvimento web e sigo firme desde então!
 - 💻 Futuramente um dev full-stack.
 - 📫 Contato: vitorvicentelucas@gmail.com
 
