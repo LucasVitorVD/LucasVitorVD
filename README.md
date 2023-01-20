@@ -1,9 +1,9 @@
-### < Olá, Seja bem-vindo! ✌️ />
+### < Seja bem-vindo! ✌️ />
 
 ##
 
 - 🔭 Me chamo Lucas e entrei nesse mundo de códigos com 15 anos, após ter desistido 2 vezes e resolver dar mais uma chance, finalmente me encontrei na área de desenvolvimento e sigo firme desde então!
-- 💻 Futuramente um dev full-stack.
+- 💻 Front-end Jr.
 - 📫 Contato: vitorvicentelucas@gmail.com
 
 <div>
