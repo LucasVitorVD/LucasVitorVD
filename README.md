@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Me chamo Lucas e entrei nesse mundo de códigos com 15 anos, após ter desistido 2 vezes e resolver dar mais uma chance, finalmente me encontrei na área de desenvolvimento e sigo firme desde então!
-- 💻 Front-end Jr.
+- 🔭 Me chamo Lucas comecei nesse mundo de códigos em 2020, após ter desistido 2 vezes e resolver dar mais uma chance, finalmente me encontrei na área de desenvolvimento e sigo firme desde então!
+- 💻 Desenvolvedor Front-end.
 - 📫 Contato: vitorvicentelucas@gmail.com
 
 <div style="display: inline_block" align="center">
